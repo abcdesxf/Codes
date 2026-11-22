@@ -1,5 +1,5 @@
 # Codes
-There are my codes for NOI.(Continuously updating)
+There are my codes for OI.(Continuously updating)
 
 ## What's here?
 Atcoder code, DMY training sessions, and more.
